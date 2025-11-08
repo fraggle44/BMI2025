@@ -1,0 +1,42 @@
+QMainWindow { background: #0f0f1a; }
+#title {
+    font: 700 32px "Segoe UI";
+    color: #00D4FF;
+    margin: 10px;
+}
+#card {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(0,212,255,0.2);
+    border-radius: 20px;
+    padding: 20px;
+    backdrop-filter: blur(12px);
+}
+QLineEdit#input {
+    background: rgba(0,0,0,0.3);
+    border: 2px solid transparent;
+    border-radius: 12px;
+    padding: 14px;
+    font: 18px "Consolas";
+    color: #fff;
+}
+QLineEdit#input:focus { border-color: #00D4FF; }
+QPushButton#btn {
+    background: #00D4FF;
+    color: #000;
+    font: 700 16px "Segoe UI";
+    border-radius: 12px;
+    padding: 12px;
+    min-width: 100px;
+}
+QPushButton#btn:hover { background: #00b8e6; }
+#result {
+    color: #fff;
+    font: 18px "Segoe UI";
+    text-align: center;
+}
+QComboBox {
+    background: rgba(0,212,255,0.15);
+    border-radius: 10px;
+    padding: 8px;
+    color: #fff;
+}
