@@ -1,0 +1,7 @@
+site_name: BMI2025 Docs
+theme: readthedocs
+nav:
+  - Home: index.md
+  - BRD: BRD.md
+  - Tests: TEST_PLAN.md
+  

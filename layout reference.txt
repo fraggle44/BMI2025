@@ -1,0 +1,65 @@
+SUPERGRoK HEAVY — OFFICIAL BMI2025 WINDOW ELEMENT MAP
+100% precise names — zero confusion, forever.
+Use these exact labels when asking for changes.
+Copy-paste them directly into your next request.
+text┌───────────────────────────────────────────────────────┐
+│  WINDOW (480×740)                                      │
+│  ┌───────────────────────────────────────────────────┐  │
+│  │  1. TITLE_LABEL                                   │  │
+│  │     "BMI Calculator"                              │  │
+│  │     36pt Segoe UI, cyan, 5px from top             │  │
+│  └───────────────────────────────────────────────────┘  │
+│                                                         │
+│  ┌───────────────────────────────────────────────────┐  │
+│  │  2. UNIT_DROPDOWN                                 │  │
+│  │     Metric / Imperial toggle                      │  │
+│  │     5px below TITLE_LABEL                         │  │
+│  └───────────────────────────────────────────────────┘  │
+│                                                         │
+│  ┌───────────────────────────────────────────────────┐  │
+│  │  3. INPUT_CARD (380×180)                          │  │
+│  │     20px below UNIT_DROPDOWN                      │  │
+│  │     ┌─────────────────────────────────────────┐   │  │
+│  │     │  3a. WEIGHT_INPUT                     │   │  │
+│  │     │      "Weight (kg/lbs)" placeholder    │   │  │
+│  │     │      50px tall                        │   │  │
+│  │     └─────────────────────────────────────────┘   │  │
+│  │     ┌─────────────────────────────────────────┐   │  │
+│  │     │  3b. HEIGHT_INPUT                     │   │  │
+│  │     │      "Height (cm/in)" placeholder     │   │  │
+│  │     │      50px tall                        │   │  │
+│  │     └─────────────────────────────────────────┘   │  │
+│  └───────────────────────────────────────────────────┘  │
+│                                                         │
+│  ┌───────────────────────────────────────────────────┐  │
+│  │  4. GAUGE_RING (200×200)                          │  │
+│  │     60px below INPUT_CARD                         │  │
+│  └───────────────────────────────────────────────────┘  │
+│                                                         │
+│  ┌───────────────────────────────────────────────────┐  │
+│  │  5. RESULT_AREA                                   │  │
+│  │     "Enter values to see BMI"                     │  │
+│  │     12pt font                                     │  │
+│  │     → Shows:                                      │  │
+│  │        • BMI_NUMBER (27pt, bold)                  │  │
+│  │        • CATEGORY_BADGE (9pt)                      │  │
+│  │        • HEALTH_TIP (10pt)                        │  │
+│  └───────────────────────────────────────────────────┘  │
+│                                                         │
+│  ┌───────────────────────────────────────────────────┐  │
+│  │  6. BUTTON_ZONE (20px above buttons)              │  │
+│  │     ┌───────────────┐    ┌───────────────┐        │  │
+│  │     │ 6a. CALCULATE │    │ 6b. COPY      │        │  │
+│  │     │   BUTTON      │    │   BUTTON      │        │  │
+│  │     └───────────────┘    └───────────────┘        │  │
+│  │     5px from bottom of window                     │  │
+│  └───────────────────────────────────────────────────┘  │
+└───────────────────────────────────────────────────────┘
+HOW TO REQUEST CHANGES (copy-paste examples)
+textPlease make TITLE_LABEL 40pt instead of 36pt
+Please make INPUT_CARD 400px wide
+Please increase spacing between WEIGHT_INPUT and HEIGHT_INPUT to 30px
+Please change GAUGE_RING thickness to 25px
+Please make BMI_NUMBER 35pt
+Please change CATEGORY_BADGE background to #FF00FF
+Please move BUTTON_ZONE 10px higher
